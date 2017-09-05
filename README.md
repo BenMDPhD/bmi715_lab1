@@ -8,8 +8,8 @@ Edit this file.
 ## Step 2
 Stage the changes.
 
-## STep 3
+## Step 3
 Commit the changes.
 
-## STpe 4
+## Step 4
 Push the changes
